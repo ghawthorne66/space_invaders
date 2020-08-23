@@ -75,9 +75,8 @@
       <change afterPath="$PROJECT_DIR$/../todoapp/src/components/TodoItem.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todoapp/src/components/Todos.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todoapp/src/components/layout/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/space_invaders.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/space_invaders.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -109,10 +108,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/space_invaders/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -123,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598196826430</updated>
       <workItem from="1598196827649" duration="1198000" />
-      <workItem from="1598198160162" duration="2863000" />
+      <workItem from="1598198160162" duration="8105000" />
     </task>
     <servers />
   </component>
@@ -147,22 +154,22 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="225" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1598199180599" />
-    <state width="957" height="205" key="GridCell.Tab.0.bottom" timestamp="1598198102261">
+    <state width="1033" height="205" key="GridCell.Tab.0.bottom" timestamp="1598216941918">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="957" height="205" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1598198102261" />
-    <state width="957" height="205" key="GridCell.Tab.0.center" timestamp="1598198102260">
+    <state width="1033" height="205" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1598216941918" />
+    <state width="1033" height="205" key="GridCell.Tab.0.center" timestamp="1598216941917">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="957" height="205" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1598198102260" />
-    <state width="957" height="205" key="GridCell.Tab.0.left" timestamp="1598198102260">
+    <state width="1033" height="205" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1598216941917" />
+    <state width="1033" height="205" key="GridCell.Tab.0.left" timestamp="1598216941917">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="957" height="205" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1598198102260" />
-    <state width="957" height="205" key="GridCell.Tab.0.right" timestamp="1598198102261">
+    <state width="1033" height="205" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1598216941917" />
+    <state width="1033" height="205" key="GridCell.Tab.0.right" timestamp="1598216941918">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="957" height="205" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1598198102261" />
+    <state width="1033" height="205" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1598216941918" />
     <state width="957" height="205" key="GridCell.Tab.1.bottom" timestamp="1598198102262">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -179,5 +186,9 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="957" height="205" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1598198102262" />
+    <state x="217" y="353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1598216105963">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="217" y="353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.823@0.23.1440.823" timestamp="1598216105963" />
   </component>
 </project>
